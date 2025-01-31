@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "qa"
+build:
+  version: "2.0"
+cards:
+  message: "Welcome to EasyBank card related QA APIs"
+  contactDetails:
+    name: "QA - Engineer"
+    email: "qateam@gmail.com"
+  onCallSupport:
+    -9878987890,
+    -8787656790

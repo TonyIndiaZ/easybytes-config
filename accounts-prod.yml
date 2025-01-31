@@ -1,0 +1,15 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+
+build:
+  version: "1.0"
+accounts:
+  message: "Welcome to EasyBank accounts related prod APIs"
+  contactDetails:
+    name: "QA lead - pallu"
+    email: "pallu@gmail.com"
+  onCallSupport:
+    -9878987890,
+    -8787656790

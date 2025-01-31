@@ -1,0 +1,14 @@
+#spring:
+#  config:
+#    activate:
+#      on-profile: "prod"
+build:
+  version: "1.0"
+cards:
+  message: "Welcome to EasyBank card related prod APIs"
+  contactDetails:
+    name: "PROD - Engineer"
+    email: "prodteam@gmail.com"
+  onCallSupport:
+    -9878987890,
+    -8787656790
