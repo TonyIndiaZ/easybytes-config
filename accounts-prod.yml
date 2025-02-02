@@ -1,5 +1,7 @@
 build:
   version: "1.0"
+feature:
+  userFlag: flag
 accounts:
   message: "Welcome to EasyBank accounts related production  APIs"
   contactDetails:
