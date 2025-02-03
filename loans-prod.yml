@@ -3,9 +3,9 @@
 #    activate:
 #      on-profile: "prod"
 build:
-  version: "1.0"
+  version: "1.0.6"
 loans:
-  message: "Welcome to EasyBank loans related production_02 APIs"
+  message: "Welcome to EasyBank loans related production_03 APIs"
   contactDetails:
     name: "PROD loans- Engineer"
     email: "loansprodteam@gmail.com"
