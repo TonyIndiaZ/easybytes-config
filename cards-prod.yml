@@ -3,9 +3,9 @@
 #    activate:
 #      on-profile: "prod"
 build:
-  version: "1.0.6"
+  version: "1.0.7"
 cards:
-  message: "Welcome to EasyBank card related production_03  APIs"
+  message: "Welcome to EasyBank card related production_04  APIs"
   contactDetails:
     name: "PROD - Engineer"
     email: "prodteam@gmail.com"
