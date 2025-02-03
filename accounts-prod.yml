@@ -1,7 +1,7 @@
 build:
-  version: "1.0.4"
+  version: "1.0.5"
 feature:
-  userFlag: true
+  userFlag: false
 accounts:
   message: "Welcome to EasyBank accounts related production_01  APIs"
   contactDetails:
