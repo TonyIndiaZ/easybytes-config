@@ -1,9 +1,9 @@
 build:
-  version: "1.0.6"
+  version: "1.0.7"
 feature:
   userFlag: false
 accounts:
-  message: "Welcome to EasyBank accounts related production_03  APIs"
+  message: "Welcome to EasyBank accounts related production_04    APIs"
   contactDetails:
     name: "QA lead - pallu"
     email: "{cipher}13fd9f205b534c258e2ca6e9b1fbf475059c61be224d1db1009c4d16ac7fdb23"
