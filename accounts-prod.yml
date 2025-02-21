@@ -5,7 +5,7 @@ feature:
 accounts:
   message: "Welcome to EasyBank accounts related prod_08  APIs"
   contactDetails:
-    name: "QA lead - pallu"
+    name: "prod lead - pallu"
     email: "{cipher}13fd9f205b534c258e2ca6e9b1fbf475059c61be224d1db1009c4d16ac7fdb23"
   onCallSupport:
     -9878987890,
